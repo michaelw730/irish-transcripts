@@ -392,7 +392,7 @@ D: 'Lucky day Tuesday, today the cavalry rides in.  But be careful, it may take 
 Deirbhile:
 > There were probably a few words in the program that you didn't understand.  Don't worry about these, we'll deal with them later on.  Next time, we'll look at ways at introducing yourself and others.  So until then `Go dtí sin, slán`.
 
-In this episode of 'Not you're talking' you heard:
+In this episode of 'Now you're talking' you heard:
 * `Cad é mar atá tú?`
 * `Cad é mar atá sibh?`
 * `Go maith.`
