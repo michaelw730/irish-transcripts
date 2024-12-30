@@ -1,4 +1,4 @@
-# irish-transcripts
+# Irish Transcripts
 
 Transcripts of some Irish resources.
 
