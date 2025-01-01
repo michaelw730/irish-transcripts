@@ -302,106 +302,308 @@ gave the place its name `Leim an Mhadaidh` the dog's sleep.
 > 
 
 Deirbhile:
-> So far we've seen people introduce themselves.  Now let's have a look at people and produce others.
+> So far we've seen people introduce themselves.  Now let's have a look at people introduce others.
 
- in a way that
-jimothy Olo Hamish
-Tasha need Chama Jana Seamus hello huge
-night imitator you need good white yeah
-yeah Elsa smash you Laura Kay sha Sharma
-yaha
-Kishore me get hurt don't hug show me or
-for Helen show me Alfred Harry
-mr. Shaw we had a Farseer misspoke
-show me I heard die hello show me are
-for Claire
-show me are for Sinead Keysha who's this
-show me yacht her this is my brother
-show me yet affirm this is my sister
-let's watch those again hello waiter
-jimothy
-oh hello Hamish sure she'll eat Chama
-yeah Sheamus hello image how'd you meet
-her you need good white yeah smash you
-Laura K Shah Sharma yah her Kishore me
-yet her dumb luck show me your for Helen
-show me Alfred Harry
-it is Kishore we had a fire Sarah
-misspoke show me I her die hello
-show me are for Claire show me are for
-Sinead help show me yet afar this is my
-sister
-show me yet afar show me yet her this is
-my brother show me ya her Keisha who's
-this Keisha ah her father
-show ma this is my father Mart
-mother show moi this is my mother
-let's look at some examples Liam what do
-chart Allah
-Kisha Sharmila heart hi yeah I'm into a
-to come I don't want you but just aa
-show where Nora be shocked did of it
-good same earth had to oh my
-the gachami wired why are you marching
-teach imitate a boy well bleach
-well that mean kid show oh sure my hat
-Oh Jimoh tato show my
-consumer Ted chef come I gonna market
-Hadi a shock Kathleen Kathleen Shama
-good imitator oh come on oh my god
-a her father a her Shawn my hair this is
-my father Shawn my hair my hair mother
-my hair Shama wha hair this is my mother
-Shama we're fathers and mothers or their
-titles to their sons and daughters
-my son is my walk and my daughter is
-minion yes could you ever have to hike
-it away good kiss sure sure Malak Jim
-Teta shaman in Cochin tiny MacArthur
-Josephine Shulman walk Joma are
-oh hello I'll get him detective
-Shauna walk me help oh you know you're a
-tattoo
-go my girl my gut hello Josie g'day
-mate' turn come I grew my hair a shaman
-in Sheena DiMatteo healer come why go to
-my Agatha my walk my some minion my
-daughter let's watch those again oh yes
-could you ever had to quite good away
-good kiss sure sure Malak Jim etter
-shaman in Cochin tiny MacArthur
-Josephine shall walk Joma are oh hello
-oh I'll get him detective Shawn the walk
-me L o V no Garrett at oh hello Josie
-Kojima Petra come I grew my hero shaman
-in Sheena DiMatteo healer come ye go to
-my Agatha need daughter mean me need my
-daughter mean mock some mock more walk
-my son more walk
-I can show me where her hello
-show me her hello Huck is Kishore
-show me ya her cunny mètode' con ha
-Conor Shamu walk like a Sean Mannion
-let's watch that again and look out for
-untoward ooh the order and to be my be
-good okay show me where her hello show
-me her hello Huck is Kishore show me ya
-her cunny mètode' con ha Conor Shamu
-walk like a Sean Mannion
-and harder
-long yeah come on go good my with Han
-sure food talking to Glenn lon
-flan of our way Hey
-Sala holder Polly Adi
-you might when
-gone
-Coffee can't you
-well that's it for program two next time
-we show you how to see where you live
-how to give your telephone number and
-how to tell the time so until then good
-jiton salon
-in this episode of now you're talking
+## Conversation 20
+
+Man: `Haló Eilid(??), cad é mar atá tú?`
+
+Woman 1: `oh haló a Shéamus.  Seo Sinead.  Seo mo dheartháir, Shéamus`
+
+Woman 2: `oh haló Shéamus`
+
+Man: `Cad é mar atá tú Shinead?`
+
+Man: `Go raibh maith agait.`
+
+## Conversation 21
+
+Children: `Sé, seacht, ocht, naoi, deich`
+
+Girl 1: `Cé thusa?`
+
+Girl 2: `Is mise Laura`
+
+Girl 1: `Cé seo?`
+
+Girl 2: `Seo mo dheartháir`
+
+## Conversation 22
+
+Boy: `Cé seo?`
+
+Girl: `Mo dheartháir, Donahow (??)`
+
+## Conversation 23
+
+Girl 1: `Seo mo dheirfiúr Helen`
+
+Girl 2: `Seo mo dheirfiúr Teri`
+
+## Conversation 24
+
+Boy: `Agus cé seo?`
+
+Girl: `Mo dheirfiúr Sarah`
+
+## Conversation 25
+
+Girl 1: `Anois (??) Paul`
+
+Girl 1: `Seo mo dheartháir, Daithi`
+
+Boy 1: `Haló`
+
+Girl 1: `Seo mo dheirfiúr Clar`
+
+Girl 1: `Seo mo dheirfiúr Sinead`
+
+Girl 2: `Haló`
+
+
+Deirbhile:
+> `Cé seo` who's this.  `Seo mo dheartháir` this is my brother. `Seo mo dheirfiúr` this is my sister.  Let's watch those again.
+
+Repeat Conversations 20-25
+
+
+Voiceover:
+> `Seo mo dheirfiúr` this is my sister.
+> `Seo mo dheartháir` this is my brother.
+> `Cé seo` who's this. 
+
+Deirbhile:
+> `athair` father.  `Seo m'athair` this is my father. 
+> `máthair` mother.  `Seo mo mháthair` this is my mother.
+> Let's look at some examples
+
+## Conversation 26
+
+Woman: `Liam, an bhfuil teach tú bhaile (??)?`
+
+Boy 1: `Cé seo?`
+
+Boy 2: `Seo mo mháthair`
+
+## Conversation 27
+
+Woman 1: `Ah Dhiarmiud, cad é mar atá tú?`
+
+Man: `Go maith, go raibh maith agat`
+
+Woman 1: `Goitse isteach (??)` - Come in???
+
+Woman 1: `Seo mo mháthair Nora, agus seo (??) Diarmuid`
+
+Man: `cad é mar atá tú?`
+
+Woman 2: `Go maith`
+
+## Conversation 28
+
+Girl: `Agus seo mo mháthair`
+
+Girl: `mháthair, seo Martin`
+
+Woman:`cad é mar atá tú?`
+
+Boy: `Go maith`
+
+## Conversation 29
+
+Woman 1: `Well a Bhrig`
+
+Woman 2: `Well Evelyn`
+
+Woman 2: `Cé seo?`
+
+Woman 1: `Seo m'aithair`
+
+Woman 2: `Oh cad é mar atá tú?`
+
+## Conversation 30
+
+Man 1: `seo m'athair ag teacht` - this is my father coming
+
+Man 2; `Cad é mar atá sibh?`
+
+Woman: `Go maith, go raibh maith agat`
+
+Man 1: `Ah dhadaí, seo Kathleen.  Kathleen, seo m'athair`
+
+Woman: `cad é mar atá tú?`
+
+Man: `Go maith, go raibh maith agat`
+
+
+
+Voiceover:
+> `athair` father. `seo m'athair` this is my father
+> `máthair` father. `seo mo mháthair` this is my father
+
+
+Deirbhile:
+> Fathers and mothers owe their titles to their sons and daughters.  My son is `mo mhac` and my daughter is `m'inion`.
+
+
+## Conversation 31
+
+Woman: `Ah Niamh, cad é mar atá tú? `
+
+Girl: `Go maith, go raibh maith agat`
+
+Girl: `Cé seo`
+
+Woman: `Seo mo mhac`
+
+## Conversation 32
+
+Woman 1: `Cad é mar atá tú?  Seo m'inion`
+
+Woman 2: `Cad é an t-ainm atá ort?`
+
+Girl: `Josephine`
+
+
+## Conversation 33
+
+Man: `Seo mo mhac`
+
+Boy: `Seo m'athair`
+
+
+## Conversation 34
+
+Man: `Oh haló`
+
+Woman: `Oh Chahal, cad é mar atá tú?  Seo mo mhac Michéal`
+
+Man: `Oh Mhichéal, cad é mar atá tú?`
+
+Boy: `Go maith, go raibh maith agat`
+
+
+## Conversation 35
+
+Man 1: `Oh haló, Josey.  Cad é mar atá tú?`
+
+Man 2: `Go maith, go raibh maith agat`
+
+Man 1: `Seo m'inion Seila`
+
+Man 2: `Cad é mar atá tú Sheila`
+
+Woman: `Go maith, go raibh maith agat`
+
+
+
+Deirbhile:
+> `mo mhac` my son.  `m'inon` my daughter.  Let's watch those again 
+ 
+Repeat Conversations 31-35
+ 
+Voiceover:
+> `inion` daughter.  `m'inon` my daughter.
+> `mac` son.  `mo mhac` my son.
+
+## Conversation 36
+
+Mum: `Ah hem`
+
+Deirdre: `Ah Shéan.  Seo mo mháthair`
+
+Séan: `Haló`
+
+Deirdre: `Ah Shéan.  Seo mo athair`
+
+Séan: `Haló`
+
+Séan: `Agus, cé seo?`
+
+Deirdre: `Seo mo dheartháir.`
+
+Séan: `C'ainm atá ort?`
+
+Conor: `Conor`
+
+Séan: `Ah Conor`
+
+Mum: `Seo mo mhac`
+
+Dad: `Agus, seo m'inion`
+
+
+
+Deirbhile:
+> Let's watch that again and look out for `an t-ordú (??)` the order and `be (??) maith` be good 
+
+Repeat conversation 36 (except first line)
+
+## Conversation 37 (36 extended)
+
+Séan: `an t-ordú (??)?`
+
+## Conversation 38 (37 extended)
+
+Séan: `Slán`
+
+Séan: `Go raibh maith agaibh`
+
+Mum: `Go raibh maith agat féin`
+
+Dad: `Tá sé fuar`
+
+Séan: `Tá cinnté`
+
+Dad: `Slán`
+
+Séan: `Slán`
+
+Deirdre: `Slán a mhamaí`
+
+Deirdre: `Hey`
+
+Conor: `Slán`
+
+Deirdre: `Slán ah Chonor`
+
+Deirdre: `Slan ah dhadaí`
+
+Dad: `be (??) maith`
+
+Dad: `Slán`
+
+Deirdre: `Slán`
+
+Séan: 'Coffee?'
+
+Deirdre: `Cinnte`
+
+
+
+Deirbhile:
+> well that's it for program two.  Next time we show you how to see where you live, how to give your telephone number and
+how to tell the time.  So until then `go dtí sin, Slán`
+
+In this episode of 'Now you're talking' you heard:
+* `Is mise..`
+* `Mise`
+* `C'ainm atá ort?`
+* `dearthaír`
+* `Seo mo dheartháir`
+* `deirfiúr`
+* `Seo mo dheirfiúr`
+* `Cé seo?`
+* `athair`
+* `m'athair`
+* `máthair`
+* `mo mháthair`
+* `inion`
+* `m'inion`
+* `mac`
+* `mo mhac`
+
+
 you heard is Misha Misha carnem apart
 ja her show me yet huh Jennifer show me
 yet afar
