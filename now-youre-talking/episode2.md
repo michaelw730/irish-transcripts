@@ -7,9 +7,13 @@ Deirbhile:
 > 
 
 ## Conversation 1
+
 Deirbhile: `Haló.  Cad é mar atá tú?`
+
 Woman: `Go maith`
+
 Deirbhile: `Is mise Deirbhile Ní Churraighín`
+
 Woman: `Tá fáilte romhat. Is mise Noreen Hanlan (>?).  Fan bomaite`
 
 Deirbhile: 'Introducing yourself in Irish is fairly simple, as you see, there isn't much to say.  All you have to do is put `Is mise` or `mise before your name.  Here are some people teeling us their names?'
@@ -17,9 +21,13 @@ Deirbhile: 'Introducing yourself in Irish is fairly simple, as you see, there is
 ## Conversation 2
 
 Woman: `Mise Mairead McNeelish (?)`
+
 Man: `Mise Donal McAraleevrah (?)`
+
 Woman: `Is mise Mairead .. (?)`
+
 Woman: `Mise Diane McSinvnye (?)`
+
 Woman: `Is mise Enya McCawly (y)`
 
 Deirbhile:
@@ -43,7 +51,7 @@ Woman: `Haló.  Cad é mar atá tú?  Is mise Sharon`
 
 ## Conversation 4
 
-Woman: `Donal Magee`
+Woman: `Donal Magee?`
 
 Man: `Is mise Donal Magee`
 
@@ -582,7 +590,7 @@ Deirdre: `Cinnte`
 
 
 Deirbhile:
-> well that's it for program two.  Next time we show you how to see where you live, how to give your telephone number and
+> well that's it for program two.  Next time we show you how to say where you live, how to give your telephone number and
 how to tell the time.  So until then `go dtí sin, Slán`
 
 In this episode of 'Now you're talking' you heard:
@@ -603,13 +611,3 @@ In this episode of 'Now you're talking' you heard:
 * `mac`
 * `mo mhac`
 
-
-you heard is Misha Misha carnem apart
-ja her show me yet huh Jennifer show me
-yet afar
-Keyshia ahead MA
-my hair
-more what
-mean minion muck
-Milwauke
----
