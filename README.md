@@ -9,3 +9,4 @@ Links/Transcripts of some Irish resources.
 ## Now You're Talking:
   * [YouTube playlist](https://www.youtube.com/watch?v=7nz--LpYC30&list=PLt6NoCieiwOzdTk7TEtWkyhFNEzFlZyAT)
   * [Episode 1](now-youre-talking/episode1.md)
+  * [Episode 2](now-youre-talking/episode2.md)
