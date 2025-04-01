@@ -143,59 +143,14 @@ Narrator: `tá mé i mo chónaí in nGaillimh` I live in Galway.  `tá mé i mo 
 Deirbhile:
 > `Teileann.  Is as Teileann mise.` `Teileann` is in the parish of `Gleann Cholm Cille` Glencolmcille in southwest Donegal and Irish the first language of most of the people who live here.  `Teileann` means basin shaped or hollow.  As far as I know the place name `Teileann` doesn't occur anywhere else but other words that do mean hollows, nooks, crannies are `log` hollow,  `poll` hole, `uaimh` cave and `cabhán` another word for hollow.  Look out for them in the place names that are coming up
 
+* `Lag an Eanaigh` Legananny - Co Cork. Hollow of the marsh
+* `Poll an Phúca` Poulaphuca - Co. Wicklow. Hollow of the goblin
+* `An Uaimh` Navan - Co. Meath.  The Cave
+* `An Cabhán` Cavan - the hollow
 
+> Overlooking Teelin is `Sliabh Liag`, which means the mountain of the flagstones.  The back of the mountain is the highest sea cliff in europe.  Near the highest point is `Casa an Ianad??` which means "one man's pass" because there's room for only one person to cross at a time. It's not to be attempted on a windy day however, as the drop is almost 2,000 feet into the sea on one side and 450 feet down the mountain on the other.  Local folklore tells us that `Sliabh Liag` was a favorite hunting ground of fun McCool he arrived here wants to find that a rival giant had taken up residence so with the help of his faithful hound bran he disposed of the competition and all we have left her remains of the giant on his desk and chair.
 
-Logan alley hollow of the marsh Paula
-6:09
-fuga hollow of the Goblin
-6:14
-I knew of the cave
-6:21
-a car won the hollow
-6:28
-overlooking Teelin ashley league which
-6:31
-means the mountain of the flagstones the
-6:33
-back of the mountain is the highest sea
-6:35
-cliff in europe near the highest point
-6:39
-is Casa Melina Carson Alina means one
-6:43
-man's pass because there's room for only
-6:45
-one person to cross at a time it's not
-6:48
-to be attempted on a windy day however
-6:50
-as the drop is almost 2,000 feet into
-6:54
-the sea on one side and 450 feet down
-6:57
-the mountain on the other local folklore
-7:06
-tells us that Shelley Willig was a
-7:08
-favorite hunting ground of fun McCool he
-7:11
-arrived here wants to find that a rival
-7:12
-giant had taken up residence so with the
-7:15
-help of his faithful hound bran he
-7:18
-disposed of the competition and all we
-7:20
-have left her remains of the giant on
-7:22
-his desk and chair
-7:35
-now for a quick recap on what we've done
-7:38
-so far
-7:39
-casteau where are you from and to reply
+> Now for a quick recap on what we've done so far casteau where are you from and to reply
 7:42
 you say us plus the place name for
 7:46
