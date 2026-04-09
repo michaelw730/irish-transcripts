@@ -71,7 +71,7 @@ Man 1: `As Doire`
 
 ## Conversation 9
 
-Woman: `Michéal McIlasp?? seo duit... go raibn maith agat.  Cá as tú?`
+Woman: `Michéal McIlasp?? seo duit... go raibh maith agat.  Cá as tú?`
 
 Man: `As Gleann Cholm Cille, agus tú féin`
 
